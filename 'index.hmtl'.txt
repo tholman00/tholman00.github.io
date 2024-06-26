@@ -1,0 +1,20 @@
+
+    <!DOCTYPE html>
+    <html>
+     <head>
+     <body>
+     <h1> My name is Takye Holman</h1>
+     <p> I am a web development student. My favorite sports are basketball and football. Fun fact is that I am good at snowboarding.</p>
+     </body>
+      <title>My Personal Introduction</title>
+       <style>
+        body{ 
+             background-color:#838484}
+        h1{ 
+            color:#675759}
+        p{ 
+           color:#262b31}
+       </style>
+     </head>
+    </html>
+    
